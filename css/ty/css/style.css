@@ -1,0 +1,52 @@
+
+
+*{
+    margin: 5px;
+}
+.navbar {
+    display: flex;
+    background-color: rgba(86, 209, 151, 0.959);
+    justify-content: space-between;
+    align-items: center;  
+    font-size: x-large;    }
+
+.choose {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-between;
+    height: 50px;
+    flex-direction: row;}
+
+.drive {
+    list-style: none;
+    margin-top: 240px;
+    margin-right: 20px;
+    font-size: x-large;
+}
+
+.main {
+    height: 100px;
+}
+
+#brand {
+    align-items: center;
+    color: burlywood;
+    font-size: xx-large;}
+
+#apply {
+    background-color: yellow;
+    font-size: x-large;}
+
+#get { background-color: yellow;
+        font-size: x-large;}
+
+#image { height: 200px;
+        margin-top: 125px;
+        margin-left: 165px;
+     }
+
+.space { display: flex;
+        flex-direction:;
+
+}
